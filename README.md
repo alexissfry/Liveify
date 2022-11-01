@@ -1,8 +1,8 @@
 # Liveify
 A web app that allows you to create custom concert playlists from spotify!
 
-# Running the webapp
-For security purposes, we omitted our spotify client id and client secret within the code. To run the code, you'll need to create a spotify developer app and insert your client id and secret into auth.txt and conf.txt. Additionally, you will need to list all of the redirect uri's from the code in your application. All of the packages needed to run the code are within the requirements.txt file, then using flask run you should be able to run everything.
+# 🎬 Video Demo 
+[![Demo](https://img.youtube.com/vi/bUbI6wvxlF0/0.jpg)](https://www.youtube.com/watch?v=bUbI6wvxlF0)
 
 # 💡 Inspiration
 Over the past six months, the number of confirmed cases of coronavirus has risen to over 3.3 million in the United States alone. As the world battles COVID-19, the entertainment industry has been put on pause. In an effort to prevent spreading the virus, many prominent venues, like Carnegie Hall and Lincoln Center, and artists, like The Weeknd and Billie Eilish, have canceled their concert tours. Liveify will create personalized, live concerts for users to listen to from home. 
